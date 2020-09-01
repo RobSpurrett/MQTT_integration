@@ -1,0 +1,32 @@
+{
+    "app_id": "robs_mqtt_test",
+    "dev_id": "ttn_uno",
+    "hardware_serial": "0004A30B001C3551",
+    "port": 1,
+    "counter": 2129,
+    "payload_raw": "AzQ=",
+    "payload_fields": {
+        "length": 2,
+        "moisture": 820
+    },
+    "metadata": {
+        "time": "2020-08-31T14:33:48.433345472Z",
+        "frequency": 868.5,
+        "modulation": "LORA",
+        "data_rate": "SF7BW125",
+        "airtime": 46336000,
+        "coding_rate": "4/5",
+        "gateways": [
+            {
+                "gtw_id": "eui-3133303721003a00",
+                "timestamp": 3383407369,
+                "time": "2020-08-31T14:33:44.051254Z",
+                "channel": 2,
+                "rssi": -71,
+                "snr": 6.5,
+                "rf_chain": 0
+            }
+        ]
+    }
+}
+
